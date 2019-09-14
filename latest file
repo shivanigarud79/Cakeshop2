@@ -1,0 +1,30 @@
+!DOCTYPE html>
+<html>
+<head>
+    <title>JS OBJECTS with new</title>    
+<!--    <link href="signup_login.css" rel="stylesheet">-->
+    <link href="demo-page.css" rel="stylesheet">
+    <link href="buy_now.css" rel="stylesheet">
+</head>
+<body id="new">
+<div class="div1">
+<div class="div-sub">
+<div class="div-sub-sub">
+<ul>
+<li class="dropdown">
+    <a href="demo-page.html">Home</a>
+</li>
+<li class="dropdown">
+<a href="#in" class="dropbtn">About</a>
+</li>
+<li class="dropdown">
+<a href="javascript:void(0)" class="dropbtn">Weddings</a>
+    <div class="dropdown-content">
+        <a href="luxury_cakes.html">Luxury Collections</a>
+      <a href="anniversary_cake.html">Anniversary cakes</a>
+    <a href="engagement_cake.html">Engagement cakes</a>
+    </div>
+</li>
+<li class="dropdown">
+<a href="javascript:void(0)"
+</html>
